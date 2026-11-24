@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh-Hant</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>zh-Hant</string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>待機模式會用你的位置顯示當地天氣、地區名稱，以及世界時鐘和太陽時鐘的日照位置。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>待機模式會輪流播放你挑選的相簿照片，就像電子相框一樣。</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>待機模式會在「即將到來」小工具中顯示你接下來的行程。</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>待機模式會在「即將到來」小工具中顯示你接下來的行程。</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>待機模式會顯示「音樂」App 目前播放的歌曲，並讓你播放、暫停或切換歌曲。</string>
+</dict>
+</plist>

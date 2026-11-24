@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# 建置產物（ipa 請上傳到 GitHub Releases）
+build/
+
+# 舊版截圖（README 改用 docs/images）
+Screenshots/
+
+# 個人照片圖示（不公開）
+Icons/icon-photo.png
