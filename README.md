@@ -8,7 +8,7 @@
 
 ## 下載
 
-到 [Releases](https://github.com/PACO630/StandByPad/releases/latest) 下載 `StandByPad-v1.0.ipa`（未簽名），用 Sideloadly 或 AltStore 等工具以你的 Apple ID 簽名後安裝到 iPad。
+到 [Releases](https://github.com/PACO630/StandByPad/releases/latest) 下載 `StandByPad-v1.0.1.ipa`（未簽名），用 Sideloadly 或 AltStore 等工具以你的 Apple ID 簽名後安裝到 iPad。
 
 ## 功能介紹
 
